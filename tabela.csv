@@ -1,12 +1,11 @@
-simbolo; nome; numeroAtomico; massaAtomica, ConfigEletro; linha; coluna;
-
-H; Hidrogênio; 1; 1.008; 1s^1; 1; 1;
-He; Hélio; 2; 4.003; 1s^2; 1; 18;
-Li; Lítio; 3; 6.941; 1s^2 2s^1; 2; 1;
-Be; Berílio; 4; 9.012; 1s^2 2s^2; 2; 2;
-B; Boro; 5; 10.811; 1s^2 2s^2 2p^1; 2; 13;
-C; Carbono; 6; 12.011; 1s^2 2s^2 2p^2; 2; 14;
-N; Nitrôgenio; 7; 14.007; 1s^2 2s^2 2p^3; 2; 15;
-O; Oxigênio; 8; 15.999; 1s^2 2s^2 2p^4; 2; 16;
-F; Flúor; 9; 18.998; 1s^2 2s^2 2p^5; 2; 17;
-Ne; Neônio; 10; 20.18; 1s^2 2s^2 2p^6; 2; 18;
+simbolo;nome;numeroAtomico;massaAtomica,ConfigEletro;linha;coluna
+H;Hidrogênio;1;1.008;1s^1;1;1
+He;Hélio;2;4.003;1s^2;1;18
+Li;Lítio;3;6.941;1s^2 2s^1;2;1
+Be;Berílio;4;9.012;1s^2 2s^2;2;2
+B;Boro;5;10.811;1s^2 2s^2 2p^1;2;13
+C;Carbono;6;12.011;1s^2 2s^2 2p^2;2;14
+N;Nitrôgenio;7;14.007;1s^2 2s^2 2p^3;2;15
+O;Oxigênio;8;15.999;1s^2 2s^2 2p^4;2;16
+F;Flúor;9;18.998;1s^2 2s^2 2p^5;2;17
+Ne;Neônio;10;20.18;1s^2 2s^2 2p^6;2;18
