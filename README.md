@@ -1,5 +1,5 @@
-#Projeto de Estudo com base na 1ª atividade dada pelo Professor Fahad Kalil
+# Projeto de Estudo com base na 1ª atividade dada pelo Professor Fahad Kalil
 
-##**Objetivos:**
+## **Objetivos:**
 - Fazer um tabela periódica completa, contendo todos os elementos
 - Entender melhor o funcionamento de dicionários e outras propriedades do Python
