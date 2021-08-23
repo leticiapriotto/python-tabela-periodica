@@ -1,4 +1,5 @@
-# Projeto de Estudo com base na 1ª atividade dada pelo Professor Fahad Kalil
+# Projeto de Estudo 
+### baseada na 1ª atividade dada pelo Professor Fahad Kalil
 
 ## **Objetivos:**
 - Fazer um tabela periódica completa, contendo todos os elementos
